@@ -10,10 +10,9 @@ When editing, make sure that you open the main OpenSCAD file in OpenSCAD if you 
 
 ---
 
-## Dependencies
+### Dependencies
 
-### MCAD
+#### MCAD
+
 - https://github.com/openscad/MCAD
 - You sholudn't need to do anything, openscad should include this.
-
-
